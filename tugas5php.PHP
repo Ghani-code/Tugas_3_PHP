@@ -1,0 +1,9 @@
+<?php $x = 360;
+$y = 90;
+$z = 60;
+$a = $x / $y;
+$b = $x / $y * $z;
+echo "jarak kota A - Z = $x Km <br> ";
+echo "Kecepatan motor = $y Km/jam <br>";
+echo "Waktu tempuh = ? <br>";
+echo "Jawaban = $b Menit";

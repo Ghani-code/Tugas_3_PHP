@@ -1,0 +1,9 @@
+<?php $x = 150000;
+$y = 12.5;
+$z = 100;
+$a = $y / $z * $x;
+$b = $a + $x;
+echo "Tabungan awal = Rp. $x  <br> ";
+echo "Bunga setahun = $y % <br>";
+echo "Total tabungan setahun = ? <br>";
+echo "Jawaban = Rp. $b ";
